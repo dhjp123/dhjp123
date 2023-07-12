@@ -18,9 +18,7 @@ _generated with [Alokpatel88/Alokpatel88](https://github.com/dhjp123)_
 ---
 [![](https://visitcount.itsvg.in/api?id=mdazlaanzubair&icon=3&color=5)](https://visitcount.itsvg.in)
 
-## Watch snake eating my github contributions 
- 
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+
 
 
  
