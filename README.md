@@ -14,7 +14,7 @@ _generated with [dhruvjeet/](https://github.com/dhjp123)_
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv123/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://dhruv123) 
  
 <div align="left">
-    <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/iamsaurabhs?theme=light&font=Noto%20Sans%20Math" />
+    <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/dhruvjeet/?theme=light&font=Noto%20Sans%20Math" />
 </div>
 
 
