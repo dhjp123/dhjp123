@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Alok+Patel;competitive+programmer;Full+Stack+Devloper">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Dhruvjeet+Patel;competitive+programmer;Full+Stack+Devloper">
 </h1>
 
 # 💫 About Me:
